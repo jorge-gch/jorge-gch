@@ -5,8 +5,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=jorge-gch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jorge-gch&theme=dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jorge-gch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
